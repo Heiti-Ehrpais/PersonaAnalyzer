@@ -30,3 +30,6 @@ This repository contains an application designed to analyze PDF files using a la
 ## Deployment
 
 - **Google Cloud Platform (GCP):** The application servers are hosted on GCP virtual machines, ensuring scalability and reliability.
+
+### Schema
+![Schema](diagram-export-5-27-2024-3_37_57-PM.png)
