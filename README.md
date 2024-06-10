@@ -8,7 +8,7 @@ This repository contains an application designed to analyze PDF files using a la
 
 - **PDF File Analysis:** Analyzes content within PDF files, providing comprehensive and accurate insights.
 - **High Accuracy:** Utilizes Retrieval-Augmented Generation (RAG) to enhance the accuracy and reliability of the generative AI model.
-- **Advanced Language Model:** Powered by ChatGPT-4, a state-of-the-art language model for natural language understanding and generation.
+- **Advanced Language Model:** Powered by ChatGPT-4o, a state-of-the-art language model for natural language understanding and generation.
 - **Customizable Personas:** Choose from various personas to change how ChatGPT-4 responds and what it looks for in files, tailoring the analysis to specific needs.
 
 ## Technologies Used
